@@ -1,0 +1,14 @@
+@media screen and (max-width: 900px) {
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 15px;
+
+    }
+    .content-right{
+        display: none;
+    }
+    .form-input{
+        width: 50%;
+    }
+    
+}
